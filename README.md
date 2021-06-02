@@ -10,6 +10,8 @@
 
 ## Getting Flask Forum up and running
 
+![GitHub top language](https://img.shields.io/github/languages/top/JoonasKulmala/Flask-Forum)
+
 Live demo at http://joonaskulmala.me/
 
 <img src="UI.png" width="400">
