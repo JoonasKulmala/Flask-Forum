@@ -43,6 +43,6 @@ From `app.py` make sure you have last 2 lines not commented out:
 
 #### Production
 
-Proper production server is recommended.
+Production WSGI server is recommended for production deployment.
 
-My guide to deployment using Apache2 web server: [w22 monday | Joonas Kulmala](https://github.com/JoonasKulmala/Python-weppipalvelu/tree/main/w22/monday)
+My guide to deployment using Apache2 web server with wsgi_module: [w22 monday | Joonas Kulmala](https://github.com/JoonasKulmala/Python-weppipalvelu/tree/main/w22/monday)
